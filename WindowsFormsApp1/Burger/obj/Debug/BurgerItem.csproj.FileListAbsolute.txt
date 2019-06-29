@@ -1,0 +1,11 @@
+C:\Users\cult_\OneDrive\Desktop\BurgerShop2\WindowsFormsApp1\Burger\bin\Debug\Burger.dll
+C:\Users\cult_\OneDrive\Desktop\BurgerShop2\WindowsFormsApp1\Burger\bin\Debug\Burger.pdb
+C:\Users\cult_\OneDrive\Desktop\BurgerShop2\WindowsFormsApp1\Burger\obj\Debug\BurgerItem.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\BurgerShop2\WindowsFormsApp1\Burger\obj\Debug\Burger.dll
+C:\Users\cult_\OneDrive\Desktop\BurgerShop2\WindowsFormsApp1\Burger\obj\Debug\Burger.pdb
+C:\Users\cult_\OneDrive\Desktop\BurgerShop\WindowsFormsApp1\Burger\bin\Debug\Burger.dll
+C:\Users\cult_\OneDrive\Desktop\BurgerShop\WindowsFormsApp1\Burger\bin\Debug\Burger.pdb
+C:\Users\cult_\OneDrive\Desktop\BurgerShop\WindowsFormsApp1\Burger\obj\Debug\BurgerItem.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\BurgerShop\WindowsFormsApp1\Burger\obj\Debug\BurgerItem.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\BurgerShop\WindowsFormsApp1\Burger\obj\Debug\Burger.dll
+C:\Users\cult_\OneDrive\Desktop\BurgerShop\WindowsFormsApp1\Burger\obj\Debug\Burger.pdb
